@@ -26,10 +26,10 @@ I have 2.5+ years of experience in enterprise IT operations (incident and SLA ma
 
 | Project | What it does | Stack |
 |---|---|---|
-| [**Enterprise-IT-Support-Agentic-RAG-Chatbot**](https://github.com/SauravP9098/Enterprise-IT-Support-Agentic-RAG-Chatbot) | Agentic RAG assistant for enterprise IT support queries. `<ADD: one line on what it answers and how>` | Python, LangGraph, `<vector DB>` |
-| [**Enterprise_knowledge_hub**](https://github.com/SauravP9098/Enterprise_knowledge_hub) | Knowledge-search platform over internal documents. `<ADD: one line>` | Python, RAG, `<vector DB>` |
+| [**Enterprise-IT-Support-Agentic-RAG-Chatbot**](https://github.com/SauravP9098/Enterprise-IT-Support-Agentic-RAG-Chatbot) | Agentic RAG assistant for enterprise IT support queries.| Python, LangGraph, |
+| [**Enterprise_knowledge_hub**](https://github.com/SauravP9098/Enterprise_knowledge_hub) | Knowledge-search platform over internal documents. | Python, RAG, |
 | [**BlogCraft**](https://github.com/SauravP9098/BlogCraft) | Multi-agent blog generator: router, research, planner, workers, reducer. | Python, LangGraph |
-| [**Medical_Agent_Chatbot**](https://github.com/SauravP9098/Medical_Agent_Chatbot) | Agent-based chatbot for medical information queries. `<ADD: one line>` | Python, LLM agents |
+| [**Medical_Agent_Chatbot**](https://github.com/SauravP9098/Medical_Agent_Chatbot) | Agent-based chatbot for medical information queries.| Python, LLM agents |
 | [**RAG_ChatBot**](https://github.com/SauravP9098/RAG_ChatBot) | Basic RAG chatbot over your own documents (notebook walkthrough). | Python, Jupyter |
 
 ---
