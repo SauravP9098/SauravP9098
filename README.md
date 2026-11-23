@@ -6,8 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-ID"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://www.linkedin.com/in/sauravp90"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="pawarsourav416@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
@@ -40,7 +40,7 @@ I have 2.5+ years of experience in enterprise IT operations (incident and SLA ma
 
 **GenAI & agents:** LLMs · RAG · LangChain · LangGraph · Multi-agent systems · Tool calling · MCP · LLM evaluation · Guardrails
 
-**Data & vector stores:** PostgreSQL · ChromaDB · FAISS
+**Data & vector stores:** PostgreSQL · ChromaDB · FAISS · PINECONE
 
 **Cloud & tools:** Azure OpenAI · Docker · Git · GitHub · Linux
 
