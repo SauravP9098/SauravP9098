@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Generative AI Developer</b> · Building RAG systems and agentic AI applications<br>
-  Enterprise IT professional at Wipro, moving into GenAI engineering
+  Enterprise IT professional, moving into GenAI engineering
 </p>
 
 <p align="center">
